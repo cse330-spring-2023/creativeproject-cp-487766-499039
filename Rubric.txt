@@ -1,0 +1,31 @@
+﻿Stock Performance Platform (100 points)
+
+
+* Django (20 points)
+* MongoDB (10 points)
+* Stock view: lists at least 20 stocks listed on the financialmodelingprep API (20 points)
+   * Can view the price of share per day in a graph format (5 points)
+   * Can view different different statistics such as price per share, EBITDA, etc. (5 points)
+   * Graph view changes depending on the stock chosen. (5 points)
+   * Users can paper trade. (5 points)
+
+
+* User login and management (20 points)
+   * User can login into their account (5 points)
+   * User can view stocks they “favorited” in a different section (5 points)
+   * User can put in fake money to see how their investments would do (5 points)
+   * User can view the graph of their total assets over time (5 points)
+
+
+* Best Practices (5 points)
+   * Code is well formatted and easy to read, with proper commenting (2 points)
+   * Page passes the W3C validator (3 points)
+
+
+* Styling (5 points)
+
+
+* Creative Portion (20 points)
+
+
+Isabel Silverman 4/10/2
