@@ -3,3 +3,6 @@
 Ryan An-487766-ryan38538
 
 Nicholas Kim-499039AND-nickc410
+
+
+Uploaded a copy of the project because I didn't want to move the actual location of the project in fear of messing with the virtual environment.
